@@ -14,7 +14,7 @@
 输入IN：以W位为一组输入数据  
 输出OUT：以W位为一组输出数据  
 位宽W：存储器单元的宽度  
-$\textsf{R/}\overline{\textsf{W}}$：控制存储器读/写，1是读，0是写  
+$ \textsf{R/}\overline{\textsf{W}} $：控制存储器读/写，1是读，0是写  
 CLK：存储器时钟
 
 ![image](../assets/image-20240315231301-87w0ebu.png)
